@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.GuardSim" parent="Theme.MaterialComponents.DayNight.NoActionBar" />
+</resources>
